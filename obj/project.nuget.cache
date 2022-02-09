@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "beiAKeRBqMQ9fpzxObi9k9wCJCoPoH8ZiDPE8cSG21j0rKyyvRMN1S+hiF+79M5Vc/aPGY1SniK1q98liywoHw==",
+  "success": false,
+  "projectFilePath": "c:\\Users\\peppe\\OneDrive\\Documenti\\My Games\\Terraria\\ModLoader\\Mod Sources\\ExampleMod\\ExampleMod.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Il pacchetto tModLoader.CodeAssist non è stato trovato. Non esistono pacchetti con questo ID nelle origini: Microsoft Visual Studio Offline Packages",
+      "libraryId": "tModLoader.CodeAssist",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.5"
+      ]
+    }
+  ]
+}
